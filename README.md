@@ -1,10 +1,10 @@
-# Enterprise Office Confidentiality Self-Inspection Manual
+# Corporate Information Confidential Security Check Manual
 
-An enterprise office confidentiality self-inspection manual. Covers personnel behaviour, meeting-room security, device and network controls, electromagnetic protection, routine checklists, and mandatory red-line prohibitions. Suitable for government and enterprise entities, classified offices, technology firms, and project-oriented companies.
+A corporate information confidentiality security check manual. Covers personnel behaviour, meeting-room security, device and network controls, electromagnetic protection, routine checklists, and mandatory red-line prohibitions. Suitable for government and enterprise entities, classified offices, technology firms, and project-oriented companies.
 
 ## Overview
 
-This repository contains a comprehensive enterprise office confidentiality self-inspection manual. The document addresses the practical and organisational dimensions of information security in office environments, with a focus on routine self-audit rather than technical countermeasures.
+This repository contains a comprehensive corporate information confidentiality security check manual. The document addresses the practical and organisational dimensions of information security in office environments, with a focus on routine self-audit rather than technical countermeasures.
 
 The manual is structured into seven chapters, covering:
 
@@ -20,7 +20,7 @@ The manual is structured into seven chapters, covering:
 
 | File | Description |
 | :--- | :--- |
-| `enterprise_office_confidentiality_self_inspection.ipynb` | The full manual, formatted as a Jupyter Notebook with markdown cells |
+| `corporate_information_confidential_security_check_manual.ipynb` | The full manual, formatted as a Jupyter Notebook with markdown cells |
 | `README.md` | This document |
 
 ## Viewing the Notebook
@@ -28,13 +28,13 @@ The manual is structured into seven chapters, covering:
 The notebook renders directly on GitHub. To view it locally:
 
 ```bash
-jupyter notebook enterprise_office_confidentiality_self_inspection.ipynb
+jupyter notebook corporate_information_confidential_security_check_manual.ipynb
 ```
 
 or
 
 ```bash
-jupyter lab enterprise_office_confidentiality_self_inspection.ipynb
+jupyter lab corporate_information_confidential_security_check_manual.ipynb
 ```
 
 No code execution is required; the notebook consists entirely of markdown cells.
