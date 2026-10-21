@@ -29,3 +29,29 @@ The notebook renders directly on GitHub. To view it locally:
 
 ```bash
 jupyter notebook enterprise_office_confidentiality_self_inspection.ipynb
+```
+
+or
+
+```bash
+jupyter lab enterprise_office_confidentiality_self_inspection.ipynb
+```
+
+No code execution is required; the notebook consists entirely of markdown cells.
+
+## Intended Audience
+
+- Government and enterprise entities
+- Classified office environments
+- Technology firms and project-oriented companies
+- Business negotiation and meeting room facilities
+- Information security and compliance officers
+
+## Usage
+
+The manual may be:
+
+- Printed and distributed to all personnel
+- Used for daily inspections and quarterly self-assessments
+- Employed as a reference for rectification record-keeping
+- Adapted for organisation-specific confidentiality policies
