@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8349118c-0808-4a1e-b9d2-a38c606be1a2" width="100%" />
+  <img src="https://github.com/user-attachments/assets/6350f7d3-8ed3-4dda-a33e-4d8cf34e217d" width="50%" />
 </p>
 
 ---
@@ -15,9 +15,11 @@ This repository contains a comprehensive corporate information confidentiality s
 
 Covers personnel behaviour, meeting-room security, device and network controls, electromagnetic protection, routine checklists, and mandatory red-line prohibitions. Suitable for government and enterprise entities, classified offices, technology firms, and project-oriented companies.
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6350f7d3-8ed3-4dda-a33e-4d8cf34e217d" width="50%" />
+  <img src="https://github.com/user-attachments/assets/8349118c-0808-4a1e-b9d2-a38c606be1a2" width="100%" />
 </p>
+
 
 ## Contents
 
