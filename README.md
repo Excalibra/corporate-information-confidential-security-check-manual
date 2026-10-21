@@ -4,7 +4,9 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6350f7d3-8ed3-4dda-a33e-4d8cf34e217d" width="50%" />
+  <a href="corporate_information_confidentiality_security_check_manual.ipynb">
+    <img src="https://github.com/user-attachments/assets/6350f7d3-8ed3-4dda-a33e-4d8cf34e217d" width="50%" alt="Corporate Information Confidentiality and Security Check Manual" />
+  </a>
 </p>
 
 ---
