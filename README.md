@@ -1,4 +1,4 @@
-# Corporate Information Confidential Security Check Manual
+# Corporate Information Confidentiality and Security Check Manual
 
 A corporate information confidentiality security check manual. Covers personnel behaviour, meeting-room security, device and network controls, electromagnetic protection, routine checklists, and mandatory red-line prohibitions. Suitable for government and enterprise entities, classified offices, technology firms, and project-oriented companies.
 
