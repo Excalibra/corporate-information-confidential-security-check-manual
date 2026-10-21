@@ -6,6 +6,10 @@
 
 A corporate information confidentiality and security check manual. Covers personnel behaviour, meeting-room security, device and network controls, electromagnetic protection, routine checklists, and mandatory red-line prohibitions. Suitable for government and enterprise entities, classified offices, technology firms, and project-oriented companies.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6350f7d3-8ed3-4dda-a33e-4d8cf34e217d" width="50%" />
+</p>
+
 ## Contents
 
 | # | Chapter | Topics |
